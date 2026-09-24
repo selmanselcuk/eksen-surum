@@ -1,11 +1,11 @@
-﻿{
+{
     "surum":  "0.2.0",
     "adres":  "https://raw.githubusercontent.com/selmanselcuk/eksen-surum/main/eksen-0.2.0.zip",
     "ozet":  "51d541e3dd47379dddcd3c5d4f9e31f24159abe87aa0d0b9e601d29bc636abfa",
     "boyut":  68343,
-    "tarih":  "2026-09-24T14:00:39.5995026+00:00",
-    "notlar":  "ACIL GUVENLIK GUNCELLEMESI - HEMEN KURUN\n\nBu surumde:\n - Veri Ice Aktarma (Excel ve CSV)\n - Evrak sekmesi: cari, proje, sozlesme, hakedis, is emri\n - Guncelleme Merkezi ve imzali surum kontrolu",
+    "tarih":  "2026-09-24T14:23:20.3980349+00:00",
+    "notlar":  "DENEME SURUMU - guncelleme akisini sinamak icin yayimlandi.\n\nBu surumde:\n - Veri Ice Aktarma (Excel ve CSV)\n - Evrak sekmesi: cari, proje, sozlesme, hakedis, is emri\n - Guncelleme Merkezi ve imzali surum kontrolu",
     "enAzSurum":  "",
     "geriCekildi":  false,
-    "imza":  "86Yqy1YzmxKpCJgj/Q1yFNiqNH0tdCLZ640nKEbClBnv2M0s0fZzVEpEMkvLSDyNJPOFK8Mmih8yTqPzuON4kw=="
+    "imza":  "5bsbifdq2upbIL36V440DujJTVI3x117fPo/ms4QzHIgzPe5pGGMu/A53pXHBxJu8HZIrG8QfhW/ahAZiPf+xw=="
 }
