@@ -1,11 +1,11 @@
 {
-    "surum":  "0.2.0",
-    "adres":  "https://raw.githubusercontent.com/selmanselcuk/eksen-surum/main/eksen-0.2.0.zip",
-    "ozet":  "51d541e3dd47379dddcd3c5d4f9e31f24159abe87aa0d0b9e601d29bc636abfa",
-    "boyut":  68343,
-    "tarih":  "2026-09-24T14:23:20.3980349+00:00",
-    "notlar":  "DENEME SURUMU - guncelleme akisini sinamak icin yayimlandi.\n\nBu surumde:\n - Veri Ice Aktarma (Excel ve CSV)\n - Evrak sekmesi: cari, proje, sozlesme, hakedis, is emri\n - Guncelleme Merkezi ve imzali surum kontrolu",
+    "surum":  "0.3.0",
+    "adres":  "https://github.com/selmanselcuk/eksen-surum/releases/download/v0.3.0/Eksen-0.3.0.msi",
+    "ozet":  "2173351bb4b67e11572ce413cfbbcf58777d56dce0491fa6fa08a9dd1ace481e",
+    "boyut":  8372224,
+    "tarih":  "2026-09-25T15:04:13.0122224+00:00",
+    "notlar":  "EKSEN 0.3.0 - kurulum paketi (MSI).\n\nBu surumde:\n - Guncelleme artik programdan kuruluyor: Simdi guncelle\n - Kod tekilligi kiraci geneline acildi, cakisan sirketin adi soyleniyor\n - Ice aktarma: stok ve poz hedefleri eklendi",
     "enAzSurum":  "",
     "geriCekildi":  false,
-    "imza":  "5bsbifdq2upbIL36V440DujJTVI3x117fPo/ms4QzHIgzPe5pGGMu/A53pXHBxJu8HZIrG8QfhW/ahAZiPf+xw=="
+    "imza":  "584yYcOoPbQDNoLNQenVVrUyTG8v7t/yk7rrPKVy6e0Rig0DV6H/R6E7nYupHroY4Zq7XD3/+J42AD4xZ+Qh7w=="
 }
