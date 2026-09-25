@@ -1,11 +1,11 @@
 {
     "surum":  "0.3.0",
     "adres":  "https://github.com/selmanselcuk/eksen-surum/releases/download/v0.3.0/Eksen-0.3.0.msi",
-    "ozet":  "2173351bb4b67e11572ce413cfbbcf58777d56dce0491fa6fa08a9dd1ace481e",
-    "boyut":  8372224,
-    "tarih":  "2026-09-25T15:04:13.0122224+00:00",
-    "notlar":  "EKSEN 0.3.0 - kurulum paketi (MSI).\n\nBu surumde:\n - Guncelleme artik programdan kuruluyor: Simdi guncelle\n - Kod tekilligi kiraci geneline acildi, cakisan sirketin adi soyleniyor\n - Ice aktarma: stok ve poz hedefleri eklendi",
+    "ozet":  "c4bb5dd252fd1ca8290a3be4604bd078ab81d804dc40451731100955a21ee466",
+    "boyut":  8376320,
+    "tarih":  "2026-09-25T15:31:42.5833646+00:00",
+    "notlar":  "EKSEN 0.3.0 - kurulum paketi (MSI) ve ilk kurulum paketi.\n\n - Guncelleme: Eksen-0.3.0.msi (programdaki Simdi guncelle bunu iner)\n - Ilk kurulum: EksenKurulum-0.3.0.exe (.NET 9 ve WebView2 eksikse kurar)",
     "enAzSurum":  "",
     "geriCekildi":  false,
-    "imza":  "584yYcOoPbQDNoLNQenVVrUyTG8v7t/yk7rrPKVy6e0Rig0DV6H/R6E7nYupHroY4Zq7XD3/+J42AD4xZ+Qh7w=="
+    "imza":  "eJQC23lDJMOjobFt/tC9WxFNGj2ogKEGIkoGqLP9LnO3JnhJCQC8HGsRO9azU6LfX9/0+E4Kn7s9FSp+ZyaSIA=="
 }
